@@ -1,4 +1,4 @@
-# App Wishlist
+# App Wishlist app
 
 ## Awesome
 
